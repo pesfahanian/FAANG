@@ -20,6 +20,6 @@ It runs at a terrible time complexity. But given the interview's time limit, it 
 
 -------------------------------------------------------------------------------------------------------------------------
 Description for num_ways_to_decode_message.ipynb:  
-Coding the solution to the problem described in https://www.youtube.com/watch?v=qli-JCrSwuk&list=WL&index=2&t=0s.
+Coding a solution to the problem described in https://www.youtube.com/watch?v=qli-JCrSwuk&list=WL&index=2&t=0s.
 
 -------------------------------------------------------------------------------------------------------------------------
