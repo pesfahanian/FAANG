@@ -19,7 +19,13 @@ Finding a solution for the coding interview problem in https://www.youtube.com/w
 It runs at a terrible time complexity. But given the interview's time limit, it is acceptable.
 
 -------------------------------------------------------------------------------------------------------------------------
+
 Description for num_ways_to_decode_message.ipynb:  
 Coding a solution to the problem described in https://www.youtube.com/watch?v=qli-JCrSwuk&list=WL&index=2&t=0s.
+
+-------------------------------------------------------------------------------------------------------------------------
+
+Description for longest_non_repeating_substring_lenght.ipynb:  
+Coding two approaches (slow, fast) for finding the longest substring without repetition.
 
 -------------------------------------------------------------------------------------------------------------------------
