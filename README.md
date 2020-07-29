@@ -29,3 +29,8 @@ Description for longest_non_repeating_substring_lenght.ipynb:
 Coding two approaches (slow, fast) for finding the longest substring without repetition.
 
 -------------------------------------------------------------------------------------------------------------------------
+
+Description for longest_palindromic_substring.ipynb:  
+A sliding-window approach to finding th longest palindromic substring in a given string. A recursive approach is also possible.
+
+-------------------------------------------------------------------------------------------------------------------------
