@@ -34,3 +34,8 @@ Description for longest_palindromic_substring.ipynb:
 A sliding-window approach to finding th longest palindromic substring in a given string. A recursive approach is also possible.
 
 -------------------------------------------------------------------------------------------------------------------------
+
+Description for balanced_parentheses.ipynb:  
+Checking that the parentheses in a given string are balanced. Every opening bracket must have a corresponding closing bracket. Solution uses stack data structure.
+
+-------------------------------------------------------------------------------------------------------------------------
