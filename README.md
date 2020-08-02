@@ -39,3 +39,9 @@ Description for balanced_parentheses.ipynb:
 Checking that the parentheses in a given string are balanced. Every opening bracket must have a corresponding closing bracket. Solution uses stack data structure.
 
 -------------------------------------------------------------------------------------------------------------------------
+
+
+Description for Sorting_list_with_unique_numbers.ipynb:  
+Given a list of numbers with only 3 unique numbers (1, 2, 3), sort the list in O(n) time. A genralization for m unique numbers, which m<n, is also implemented.
+
+-------------------------------------------------------------------------------------------------------------------------
