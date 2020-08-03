@@ -45,3 +45,9 @@ Description for Sorting_list_with_unique_numbers.ipynb:
 Given a list of numbers with only 3 unique numbers (1, 2, 3), sort the list in O(n) time. A genralization for m unique numbers, which m<n, is also implemented.
 
 -------------------------------------------------------------------------------------------------------------------------
+
+Description for two_sums.ipynb:  
+Given a list of numbers, and a target number k, return whether or not there are two numbers in the list that add up to k.  
+Two approaches were implemented to compare their time performance.
+
+-------------------------------------------------------------------------------------------------------------------------
