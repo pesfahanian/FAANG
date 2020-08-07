@@ -47,7 +47,6 @@ Given a list of numbers with only 3 unique numbers (1, 2, 3), sort the list in O
 -------------------------------------------------------------------------------------------------------------------------
 
 Description for two_sums.ipynb:  
-Given a list of numbers, and a target number k, return whether or not there are two numbers in the list that add up to k.  
-Two approaches were implemented to compare their time performance.
+Given a list of numbers, and a target number k, return whether or not there are two numbers in the list that add up to k. Three approaches were implemented. The first checks every pair to find a match, which runs in O(n^2) time. The second method also runs in O(n^2) time. The third method uses to pointers to find a match and runs in a linear time.
 
 -------------------------------------------------------------------------------------------------------------------------
