@@ -50,3 +50,8 @@ Description for two_sums.ipynb:
 Given a list of numbers, and a target number k, return whether or not there are two numbers in the list that add up to k. Three approaches were implemented. The first checks every pair to find a match, which runs in O(n^2) time. The second method also runs in O(n^2) time. The third method uses to pointers to find a match and runs in a linear time.
 
 -------------------------------------------------------------------------------------------------------------------------
+
+Description for find_Pythagorean_triplets.ipynb:  
+Given a list of numbers, find if there exists a pythagorean triplet in that list. The implemented method uses a meet-in-the-middle technique on the sorted list which runs in O(n)+O(nlogn)+n*O(n)=O(n^2) time.
+
+-------------------------------------------------------------------------------------------------------------------------
