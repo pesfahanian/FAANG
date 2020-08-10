@@ -52,6 +52,6 @@ Given a list of numbers, and a target number k, return whether or not there are 
 -------------------------------------------------------------------------------------------------------------------------
 
 Description for find_Pythagorean_triplets.ipynb:  
-Given a list of numbers, find if there exists a pythagorean triplet in that list. The implemented method uses a meet-in-the-middle technique on the sorted list which runs in O(n)+O(nlogn)+n*O(n)=O(n^2) time.
+Given a list of numbers, find if there exists a pythagorean triplet in that list. The implemented method uses a meet-in-the-middle technique on the sorted list which runs in O(n) + O(nlogn) + n*O(n) = O(n^2) time (for squre, sort, and fing).
 
 -------------------------------------------------------------------------------------------------------------------------
