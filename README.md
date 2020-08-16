@@ -55,3 +55,9 @@ Description for find_Pythagorean_triplets.ipynb:
 Given a list of numbers, find if there exists a pythagorean triplet in that list. The implemented method uses a meet-in-the-middle technique on the sorted list which runs in O(n) + O(nlogn) + n*O(n) = O(n^2) time (for squre, sort, and find).
 
 -------------------------------------------------------------------------------------------------------------------------
+
+
+Description for minimum_size_subarray_sum.ipynb:  
+Given an array of n positive integers and a positive integer s, find the minimal length of a contiguous subarray of which the sum ≥ s. If there isn't one, return 0 instead. The implemented method uses a sliding-window approach.
+
+-------------------------------------------------------------------------------------------------------------------------
