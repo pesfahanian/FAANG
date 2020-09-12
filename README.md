@@ -56,8 +56,12 @@ Given a list of numbers, find if there exists a pythagorean triplet in that list
 
 -------------------------------------------------------------------------------------------------------------------------
 
-
 Description for minimum_size_subarray_sum.ipynb:  
 Given an array of n positive integers and a positive integer s, find the minimal length of a contiguous subarray of which the sum ≥ s. If there isn't one, return 0 instead. The implemented method uses a sliding-window approach.
+
+-------------------------------------------------------------------------------------------------------------------------
+
+Description for random_pick_range_list.ipynb:  
+Given a list of ranges (all integer), return a random number that is present in one of the ranges. Every number must have the same selection probability. It is assumed that the ranges don't overlap. The problem is described in https://www.youtube.com/watch?v=1R2Ju_zgPfE&ab_channel=KeepOnCoding.
 
 -------------------------------------------------------------------------------------------------------------------------
